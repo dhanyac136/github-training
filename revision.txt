@@ -5,3 +5,4 @@ fast forward
 conflict master
 recursive
 conflict-branch1
+rebase
