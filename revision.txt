@@ -6,3 +6,4 @@ conflict master
 recursive
 conflict-branch1
 rebase
+push data with out pull by Santhosh
