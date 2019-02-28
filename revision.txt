@@ -1,6 +1,6 @@
 lab1
 log
-reset
+reset test
 fast forward
 conflict master
 recursive
