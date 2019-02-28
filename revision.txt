@@ -3,3 +3,4 @@ log
 reset
 fast forward
 recursive
+conflict-branch1
