@@ -1,3 +1,4 @@
 lab1
 log
 reset
+fast forward
