@@ -7,3 +7,4 @@ recursive
 conflict-branch1
 rebase
 testing push
+add new line
