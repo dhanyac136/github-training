@@ -1,3 +1,4 @@
 stash testing
 chnages complete
+Stashed changes
 stash testing day 3
