@@ -4,4 +4,3 @@ Stashed changes
 stash testing day 3
 stash testing complete
 fixes complete
-stash chnages step 1
